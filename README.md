@@ -8,7 +8,7 @@ Mapty web application is awesome and exciting JS Project, The user gets to add a
 
 ## Links
 
-- Live Site URL: 
+- Live Site URL: https://mustafajohnny.github.io/Mapty/
 
 
 ## Built with
