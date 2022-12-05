@@ -1,4 +1,4 @@
-# Mapty - OOP JS Project
+# Mapty - OOP Practical JS Project
 
 ## Overview
 Mapty web application is awesome and exciting JS Project, The user gets to add a mark on the map in any place he/she wants to add, and then a simple form will show up on the UI, and the user gets to chose the type of workout for example running or cycling and then the user can enter the distance, duration and extra, after that the user can submits the workout and it will be marked up on the map with the exact date of the workout. This app was a practical project and I built it together with the instructor, throughout The Complete JavaScript Course 2021 on Udemy. 
